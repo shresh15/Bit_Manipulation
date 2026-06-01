@@ -8,6 +8,7 @@ BIT MANIPULATION Question practice
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
@@ -44,4 +45,8 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
