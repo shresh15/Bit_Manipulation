@@ -6,6 +6,7 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
@@ -48,5 +49,10 @@ BIT MANIPULATION Question practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
