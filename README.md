@@ -11,6 +11,7 @@ BIT MANIPULATION Question practice
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
@@ -53,6 +54,7 @@ BIT MANIPULATION Question practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
