@@ -6,6 +6,7 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shresh15/Bit_Manipulation/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@ BIT MANIPULATION Question practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shresh15/Bit_Manipulation/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -44,6 +46,7 @@ BIT MANIPULATION Question practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
