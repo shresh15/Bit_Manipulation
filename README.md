@@ -19,6 +19,7 @@ BIT MANIPULATION Question practice
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ BIT MANIPULATION Question practice
 | ------- |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shresh15/Bit_Manipulation/tree/master/0231-power-of-two) |
+| [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -46,11 +48,13 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
