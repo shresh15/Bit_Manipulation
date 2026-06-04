@@ -18,6 +18,7 @@ BIT MANIPULATION Question practice
 | [0136-single-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,6 +27,7 @@ BIT MANIPULATION Question practice
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shresh15/Bit_Manipulation/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shresh15/Bit_Manipulation/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -55,6 +57,7 @@ BIT MANIPULATION Question practice
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +74,8 @@ BIT MANIPULATION Question practice
 | [0056-merge-intervals](https://github.com/shresh15/Bit_Manipulation/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
