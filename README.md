@@ -10,6 +10,7 @@ BIT MANIPULATION Question practice
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shresh15/Bit_Manipulation/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shresh15/Bit_Manipulation/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@ BIT MANIPULATION Question practice
 | ------- |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shresh15/Bit_Manipulation/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -81,5 +83,6 @@ BIT MANIPULATION Question practice
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shresh15/Bit_Manipulation/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
