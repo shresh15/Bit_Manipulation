@@ -18,6 +18,7 @@ BIT MANIPULATION Question practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
+| [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
@@ -51,6 +52,7 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -82,9 +84,14 @@ BIT MANIPULATION Question practice
 | [0056-merge-intervals](https://github.com/shresh15/Bit_Manipulation/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shresh15/Bit_Manipulation/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
