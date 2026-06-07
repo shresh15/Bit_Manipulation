@@ -17,6 +17,7 @@ BIT MANIPULATION Question practice
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/shresh15/Bit_Manipulation/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0137-single-number-ii) |
 | [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
@@ -53,6 +54,7 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/shresh15/Bit_Manipulation/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -97,4 +99,8 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shresh15/Bit_Manipulation/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
