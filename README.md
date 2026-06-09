@@ -49,6 +49,7 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shresh15/Bit_Manipulation/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shresh15/Bit_Manipulation/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shresh15/Bit_Manipulation/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
