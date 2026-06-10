@@ -41,6 +41,7 @@ BIT MANIPULATION Question practice
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shresh15/Bit_Manipulation/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shresh15/Bit_Manipulation/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shresh15/Bit_Manipulation/tree/master/0231-power-of-two) |
@@ -48,6 +49,7 @@ BIT MANIPULATION Question practice
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shresh15/Bit_Manipulation/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shresh15/Bit_Manipulation/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0206-reverse-linked-list) |
@@ -110,6 +112,7 @@ BIT MANIPULATION Question practice
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shresh15/Bit_Manipulation/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0206-reverse-linked-list) |
