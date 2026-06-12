@@ -62,6 +62,7 @@ BIT MANIPULATION Question practice
 | [0073-set-matrix-zeroes](https://github.com/shresh15/Bit_Manipulation/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shresh15/Bit_Manipulation/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shresh15/Bit_Manipulation/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@ BIT MANIPULATION Question practice
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shresh15/Bit_Manipulation/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
@@ -124,6 +126,7 @@ BIT MANIPULATION Question practice
 | [0021-merge-two-sorted-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shresh15/Bit_Manipulation/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shresh15/Bit_Manipulation/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shresh15/Bit_Manipulation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0234-palindrome-linked-list) |
