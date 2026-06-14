@@ -8,6 +8,7 @@ BIT MANIPULATION Question practice
 | [0015-3sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shresh15/Bit_Manipulation/tree/master/0056-merge-intervals) |
@@ -82,6 +83,7 @@ BIT MANIPULATION Question practice
 | [0018-4sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shresh15/Bit_Manipulation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0088-merge-sorted-array) |
@@ -94,6 +96,7 @@ BIT MANIPULATION Question practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,5 +145,10 @@ BIT MANIPULATION Question practice
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/shresh15/Bit_Manipulation/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
