@@ -26,6 +26,7 @@ BIT MANIPULATION Question practice
 | [0229-majority-element-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shresh15/Bit_Manipulation/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shresh15/Bit_Manipulation/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/shresh15/Bit_Manipulation/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/shresh15/Bit_Manipulation/tree/master/0485-max-consecutive-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/shresh15/Bit_Manipulation/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ BIT MANIPULATION Question practice
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/shresh15/Bit_Manipulation/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +156,8 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shresh15/Bit_Manipulation/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
