@@ -51,6 +51,7 @@ BIT MANIPULATION Question practice
 | [0040-combination-sum-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/shresh15/Bit_Manipulation/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ BIT MANIPULATION Question practice
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shresh15/Bit_Manipulation/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shresh15/Bit_Manipulation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/shresh15/Bit_Manipulation/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/shresh15/Bit_Manipulation/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
@@ -174,4 +176,8 @@ BIT MANIPULATION Question practice
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shresh15/Bit_Manipulation/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/shresh15/Bit_Manipulation/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
