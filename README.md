@@ -9,6 +9,7 @@ BIT MANIPULATION Question practice
 | [0018-4sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresh15/Bit_Manipulation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shresh15/Bit_Manipulation/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shresh15/Bit_Manipulation/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shresh15/Bit_Manipulation/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shresh15/Bit_Manipulation/tree/master/0053-maximum-subarray) |
@@ -45,6 +46,7 @@ BIT MANIPULATION Question practice
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shresh15/Bit_Manipulation/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shresh15/Bit_Manipulation/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shresh15/Bit_Manipulation/tree/master/0090-subsets-ii) |
 ## Math
